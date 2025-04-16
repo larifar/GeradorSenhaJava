@@ -55,6 +55,7 @@ public class GeradorApp extends Application {
         });
 
         VBox layout = new VBox(10, tamanhoField, tipoBox, specialCheck, gerarBtn, resultado, copiarBtn);
+        layout.getStyleClass().add("main-layout");
         Scene scene = new Scene(layout, 300, 250);
         scene.getStylesheets().add(getClass().getResource("/styles.css").toExternalForm());
         stage.setScene(scene);

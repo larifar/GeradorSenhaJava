@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeradorSenha:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeradorSenha_jar</output-path>
+    <root id="archive" name="GeradorSenha.jar">
+      <element id="module-output" name="GeradorSenha" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/21.0.7/javafx-base-21.0.7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/21.0.7/javafx-controls-21.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/21.0.7/javafx-graphics-21.0.7-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/21.0.7/javafx-base-21.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/21.0.7/javafx-graphics-21.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/21.0.7/javafx-controls-21.0.7-win.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

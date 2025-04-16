@@ -1,15 +1,10 @@
-.root {
-    -fx-background-color: #f4f4f4;
+.main-layout{
+     -fx-background-color: #f0f0f0;
+     -fx-padding: 20;
+     -fx-spacing: 15;
+     -fx-alignment: center;
 }
 
 .button {
-    -fx-background-color: #6200EE;
-    -fx-text-fill: white;
-    -fx-font-size: 14px;
-    -fx-background-radius: 8px;
-}
-
-.label {
-    -fx-font-weight: bold;
-    -fx-text-fill: #333;
+    -fx-font=size: 16px;
 }
